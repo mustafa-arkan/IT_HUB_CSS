@@ -1,0 +1,46 @@
+.banner .inner_banner .right_banner .img_1_right_banner {
+  width: 180px;
+  height: 370px;
+}
+
+.banner .inner_banner .right_banner .img_1_right_banner img {
+  width: 170px;
+  height: 370px;
+}
+
+.banner .inner_banner .right_banner .img_2_right_banner {
+  width: 170px;
+  height: 170px;
+}
+
+.banner .inner_banner .right_banner .img_4_right_banner {
+  width: 180px;
+  height: 180px;
+}
+
+.banner .inner_banner .right_banner .img_4_right_banner img {
+  width: 160px;
+  height: 160px;
+}
+
+.banner .inner_banner .right_banner .img_3_right_banner {
+  width: 170px;
+  height: 370px;
+}
+
+.banner .inner_banner .right_banner .img_3_right_banner img {
+  width: 160px;
+  height: 370px;
+}
+
+.patnership .patnership_images img {
+  width: 140px;
+}
+
+.courses_section .inner_courses_section {
+  width: 100%;
+}
+
+.courses_section .course_list {
+  width: 360px;
+}
