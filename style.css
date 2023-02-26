@@ -7,7 +7,7 @@
 
 .container1 {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .topbar {
@@ -539,6 +539,34 @@
   width: 90px;
   height: 40px;
 }
+/*  */
+.outer_android_app {
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.android_app {
+  width: 990px;
+  height: 145px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #7ddfc3;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.android_app h3 {
+  font-weight: 900;
+}
+
+.outer_android_app .android_app img {
+  width: 120px;
+  height: 90px;
+}
 
 /*  */
 .testimonials {
@@ -602,33 +630,7 @@
   margin-top: 10px;
 }
 /* end of rating */
-.outer_android_app {
-  height: 160px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-.android_app {
-  width: 990px;
-  height: 145px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: #7ddfc3;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-.android_app h3 {
-  font-weight: 900;
-}
-
-.outer_android_app .android_app img {
-  width: 120px;
-  height: 90px;
-}
 /*  */
 footer {
   height: 120px;
